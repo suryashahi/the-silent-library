@@ -1,0 +1,5 @@
+{
+  "name": "Silent Newsroom",
+  "description": "An AI-powered news processing engine that converts biased, emotional journalism into neutral, fact-based structured reports. It performs sentiment analysis, bias removal, entity extraction, and generates objective summaries.",
+  "requestFramePermissions": []
+}
